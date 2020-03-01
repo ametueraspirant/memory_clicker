@@ -1,5 +1,6 @@
 import React from "react";
 import './tailwind.css';
+import Characters from './characters.json';
 
 class Headbar extends React.Component
 {
@@ -7,6 +8,11 @@ class Headbar extends React.Component
 	{
 		vars: true
 	};
+
+	function display_portraits()
+	{
+		
+	}
 
 	render()
 	{

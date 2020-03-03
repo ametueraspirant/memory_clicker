@@ -3,19 +3,19 @@ import '../tailwind.css';
 import { Link } from "react-router-dom";
 import Characters from '../characters.json';
 
-class Results extends React.Component
+class match404 extends React.Component
 {
 	state =
 	{
-		backgroundimg: Characters.resultsbackground
+		backgroundimg: Characters.fourohfourbackground
 	};
 
 	render()
 	{
 		return(
-			<h1>results</h1>
+			<div>404</div>
 		);
 	};
-};
+}
 
-export default Results;
+export default match404;

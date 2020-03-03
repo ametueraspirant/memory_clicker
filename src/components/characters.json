@@ -1,5 +1,7 @@
 {
-	"background": "https://personacentral.com/wp-content/uploads/2016/08/Hero-AoA-Header-720x340.jpg",
+	"homebackground": "https://s3.amazonaws.com/digitaltrends-uploads-prod/2017/04/persona-splash.png",
+	"resultsbackground": "https://personacentral.com/wp-content/uploads/2016/08/Hero-AoA-Header-720x340.jpg",
+	"fourohfourbackground":"https://www.elegantthemes.com/blog/wp-content/uploads/2014/09/404-header.png",
 	"data": [
 		{
 			"image": "https://nekketsunikki.files.wordpress.com/2016/12/2.png",

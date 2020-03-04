@@ -74,7 +74,7 @@ class Game extends React.Component
 	{
 		if(this.state.lost || this.state.timeout)
 		{
-			return <Redirect to = {{ pathname: "/Results", state: { score: this.state.score, timedout: this.state.timeout }}}></Redirect>
+			return <Redirect to = {{ pathname: "/results", state: { score: this.state.score, timedout: this.state.timeout }}}></Redirect>
 		}
 		else return(
 			<div>

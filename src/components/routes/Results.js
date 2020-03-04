@@ -47,9 +47,9 @@ class Results extends React.Component
 							<div className = "bg-white rounded-b-lg p-10">
 								<p>You finished with a streak of {this.state.score} unique faces!</p>
 								<p className = "pb-5">But that last click was a duplicate!</p>
-								<Link to = "/Game" className = "bg-red-600 p-3 mr-2 rounded-lg">Play again?</Link>
+								<Link to = "/game" className = "bg-red-600 p-3 mr-2 rounded-lg">Play again?</Link>
 								or
-								<Link to = "/" className = "bg-red-600 p-3 ml-2 rounded-lg">Go Home?</Link>
+								<Link to = "/memory_clicker" className = "bg-red-600 p-3 ml-2 rounded-lg">Go Home?</Link>
 							</div>
 						</div>
 					</div>

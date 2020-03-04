@@ -10,7 +10,7 @@ function App() {
   return (
     <Router>
       <Switch>
-        <Route exact path = "/" component = {Home} />
+        <Route exact path = "/memory_clicker" component = {Home} />
         <Route exact path = "/game" component = {Game} />
         <Route exact path = "/results" component = {Results} />
         <Route component = {match404} />

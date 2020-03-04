@@ -14,7 +14,7 @@ class Home extends React.Component
 	{
 		return(
 			<div className = "bg-cover h-screen" style = {{backgroundImage: `url(${this.state.backgroundimg})`}}>
-				<Link to = {"/Game"}>
+				<Link to = {"/game"}>
 					<div className = "flex flex-col justify-around pt-64 px-32">
 						<h1 className = "text-white text-2xl text-semibold self-center blend-exclusion">
 							<p>Hey there. So persona characters all look pretty similar. It doesn't help that there's a lot of them... 

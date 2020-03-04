@@ -17,7 +17,7 @@ class match404 extends React.Component
 				<div className = "flex flex-row justify-center pt-64">
 					<div className = "flex flex-col content-center text-white text-extrabold text-2xl">
 						<h1 className = "mb-40">It looks like you're trying to escape the webpage! </h1>
-						<Link to = "/" className = "self-center">-&gt; Click here to go back home.&lt;-</Link>
+						<Link to = "/memory_clicker" className = "self-center">-&gt; Click here to go back home.&lt;-</Link>
 					</div>
 				</div>
 			</div>

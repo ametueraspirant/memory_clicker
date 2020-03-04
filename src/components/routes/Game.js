@@ -1,6 +1,6 @@
 import React from 'react';
 import '../tailwind.css';
-import { Link, Redirect } from "react-router-dom";
+import { Redirect } from "react-router-dom";
 import Characters from '../characters.json';
 import Imgcard from '../Imgcard.js';
 
@@ -41,7 +41,7 @@ class Game extends React.Component
 			this.state.clickedsofar.find(element => {
 				if(thisid === element)
 				{
-					this.setState({lost: true});
+					return this.setState({lost: true});
 				}
 			});
 

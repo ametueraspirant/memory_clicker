@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/memory_clicker/static/css/main.865d055b.chunk.css",
+    "main.css": "/memory_clicker/static/css/main.15415431.chunk.css",
     "main.js": "/memory_clicker/static/js/main.55ae3db8.chunk.js",
     "main.js.map": "/memory_clicker/static/js/main.55ae3db8.chunk.js.map",
     "runtime-main.js": "/memory_clicker/static/js/runtime-main.01343f0e.js",
@@ -8,15 +8,15 @@
     "static/js/2.d47fa77d.chunk.js": "/memory_clicker/static/js/2.d47fa77d.chunk.js",
     "static/js/2.d47fa77d.chunk.js.map": "/memory_clicker/static/js/2.d47fa77d.chunk.js.map",
     "index.html": "/memory_clicker/index.html",
-    "precache-manifest.085452a17d6502556be099ed0c383830.js": "/memory_clicker/precache-manifest.085452a17d6502556be099ed0c383830.js",
+    "precache-manifest.be67fe3e4a8522678bf4909e27f12649.js": "/memory_clicker/precache-manifest.be67fe3e4a8522678bf4909e27f12649.js",
     "service-worker.js": "/memory_clicker/service-worker.js",
-    "static/css/main.865d055b.chunk.css.map": "/memory_clicker/static/css/main.865d055b.chunk.css.map",
+    "static/css/main.15415431.chunk.css.map": "/memory_clicker/static/css/main.15415431.chunk.css.map",
     "static/js/2.d47fa77d.chunk.js.LICENSE.txt": "/memory_clicker/static/js/2.d47fa77d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.01343f0e.js",
     "static/js/2.d47fa77d.chunk.js",
-    "static/css/main.865d055b.chunk.css",
+    "static/css/main.15415431.chunk.css",
     "static/js/main.55ae3db8.chunk.js"
   ]
 }
